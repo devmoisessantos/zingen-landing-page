@@ -33,6 +33,10 @@
     margin-inline: auto;
 }
 
+.items-center {
+    align-items: center;
+}
+
 .flex {
     display: flex;
 }
@@ -43,6 +47,10 @@
 
 .gap-1 {
     gap: 1rem;
+}
+
+.gap-1\.5 {
+    gap: 1.5rem;
 }
 
 @media (width >= 80em) {

@@ -46,7 +46,7 @@
     &::before {
         content: "";
         position: absolute;
-        inset: 0.09375rem;
+        inset: 1px;
         background-color: var(--bg-color);
         border-radius: inherit;
     }

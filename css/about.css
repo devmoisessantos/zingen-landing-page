@@ -1,0 +1,7 @@
+#about {
+    background: var(--bg-color);
+
+    & .even-columns {
+        gap: 2rem;
+    }
+}

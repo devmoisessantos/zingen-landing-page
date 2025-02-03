@@ -60,6 +60,17 @@ html {
 
 body {
     background-color: var(--bg-color);
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+img {
+    max-width: 100%;
+    display: inline-block;
 }
 
 h1, h2, h3 {

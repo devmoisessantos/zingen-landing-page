@@ -1,0 +1,9 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;" width="60" height="60" x="0" y="0" filtersec="colorsf6783755814" filter="url(#iMDfOXwLlma2focDSRLGR)"><g transform="scale(1, 1) skewX(0)">
+<path d="M50 0h50v50c0 27.614-22.386 50-50 50S0 77.614 0 50 22.386 0 50 0z" fill-rule="evenodd"></path>
+</g>
+<defs>
+<filter id="iMDfOXwLlma2focDSRLGR">
+<feColorMatrix type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0"></feColorMatrix>
+</filter>
+</defs>
+</svg>

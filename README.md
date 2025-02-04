@@ -5,14 +5,6 @@
 
 ---
 
-## 📸 Imagens
-
-| ![Tela 1](assets/img/Tela%201.png) | ![Tela 2](assets/img/Tela%202.png) | ![Tela 3](assets/img/Tela%203.png) |
-|------------------------------------|------------------------------------|------------------------------------|
-| *Compartilhamento com a comunidade* | *Experiência gamificada*           | *Letras em tempo real*             |
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica do formulário.
